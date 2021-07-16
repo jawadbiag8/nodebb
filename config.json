@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "80af8c7c-215c-41ee-bd3b-bedc9569ada9",
+    "database": "mongo",
+    "port": "4567",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": ""
+    }
+}
